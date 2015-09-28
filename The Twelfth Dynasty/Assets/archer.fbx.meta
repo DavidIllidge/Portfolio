@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 2530a5c564b3c38449a22b58966d944c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArcherMaster:archkit:arch
+    100004: ArcherMaster:archkit:arrow
+    100006: ArcherMaster:archkit:arrowbag
+    100008: ArcherMaster:archkit:bow
+    100010: ArcherMaster:archkit:headdress
+    100012: ArcherMaster:archkit:Object05
+    100014: ArcherMaster:archkit:Object06
+    100016: ArcherMaster:archkit:Object07
+    100018: ArcherMaster:arrow2
+    100020: ArcherMaster:arrow3
+    100022: ArcherMaster:brokenbowpart1
+    100024: ArcherMaster:brokenbowpart2
+    100026: ArcherMaster:ikHandle1
+    100028: ArcherMaster:ikHandle2
+    100030: ArcherMaster:ikHandle3
+    100032: ArcherMaster:ikHandle4
+    100034: ArcherMaster:joint1
+    100036: ArcherMaster:joint10
+    100038: ArcherMaster:joint11
+    100040: ArcherMaster:joint12
+    100042: ArcherMaster:joint13
+    100044: ArcherMaster:joint14
+    100046: ArcherMaster:joint15
+    100048: ArcherMaster:joint16
+    100050: ArcherMaster:joint17
+    100052: ArcherMaster:joint18
+    100054: ArcherMaster:joint19
+    100056: ArcherMaster:joint2
+    100058: ArcherMaster:joint20
+    100060: ArcherMaster:joint25
+    100062: ArcherMaster:joint26
+    100064: ArcherMaster:joint27
+    100066: ArcherMaster:joint28
+    100068: ArcherMaster:joint29
+    100070: ArcherMaster:joint3
+    100072: ArcherMaster:joint30
+    100074: ArcherMaster:joint31
+    100076: ArcherMaster:joint32
+    100078: ArcherMaster:joint33
+    100080: ArcherMaster:joint34
+    100082: ArcherMaster:joint35
+    100084: ArcherMaster:joint36
+    100086: ArcherMaster:joint37
+    100088: ArcherMaster:joint38
+    100090: ArcherMaster:joint39
+    100092: ArcherMaster:joint4
+    100094: ArcherMaster:joint40
+    100096: ArcherMaster:joint41
+    100098: ArcherMaster:joint42
+    100100: ArcherMaster:joint43
+    100102: ArcherMaster:joint44
+    100104: ArcherMaster:joint45
+    100106: ArcherMaster:joint46
+    100108: ArcherMaster:joint47
+    100110: ArcherMaster:joint48
+    100112: ArcherMaster:joint49
+    100114: ArcherMaster:joint5
+    100116: ArcherMaster:joint50
+    100118: ArcherMaster:joint51
+    100120: ArcherMaster:joint52
+    100122: ArcherMaster:joint53
+    100124: ArcherMaster:joint54
+    100126: ArcherMaster:joint55
+    100128: ArcherMaster:joint56
+    100130: ArcherMaster:joint57
+    100132: ArcherMaster:joint58
+    100134: ArcherMaster:joint59
+    100136: ArcherMaster:joint6
+    100138: ArcherMaster:joint60
+    100140: ArcherMaster:joint61
+    100142: ArcherMaster:joint62
+    100144: ArcherMaster:joint63
+    100146: ArcherMaster:joint64
+    100148: ArcherMaster:joint7
+    100150: ArcherMaster:joint8
+    100152: ArcherMaster:joint9
+    100154: ArcherMaster:L_ArmPole
+    100156: ArcherMaster:L_FootControl
+    100158: ArcherMaster:L_HandControl
+    100160: ArcherMaster:L_LegPole
+    100162: ArcherMaster:nurbsSquare1
+    100164: ArcherMaster:polySurface1
+    100166: ArcherMaster:R_ArmPole
+    100168: ArcherMaster:R_FootControl
+    100170: ArcherMaster:R_HandControl
+    100172: ArcherMaster:R_LegPole
+    100174: ArcherMaster:skid1
+    100176: ArcherMaster:skid2
+    100178: ArcherMaster:transform1
+    100180: ArcherMaster:transform2
+    100182: ArcherMaster:transform3
+    100184: ArcherMaster:transform4
+    400000: //RootNode
+    400002: ArcherMaster:archkit:arch
+    400004: ArcherMaster:archkit:arrow
+    400006: ArcherMaster:archkit:arrowbag
+    400008: ArcherMaster:archkit:bow
+    400010: ArcherMaster:archkit:headdress
+    400012: ArcherMaster:archkit:Object05
+    400014: ArcherMaster:archkit:Object06
+    400016: ArcherMaster:archkit:Object07
+    400018: ArcherMaster:arrow2
+    400020: ArcherMaster:arrow3
+    400022: ArcherMaster:brokenbowpart1
+    400024: ArcherMaster:brokenbowpart2
+    400026: ArcherMaster:ikHandle1
+    400028: ArcherMaster:ikHandle2
+    400030: ArcherMaster:ikHandle3
+    400032: ArcherMaster:ikHandle4
+    400034: ArcherMaster:joint1
+    400036: ArcherMaster:joint10
+    400038: ArcherMaster:joint11
+    400040: ArcherMaster:joint12
+    400042: ArcherMaster:joint13
+    400044: ArcherMaster:joint14
+    400046: ArcherMaster:joint15
+    400048: ArcherMaster:joint16
+    400050: ArcherMaster:joint17
+    400052: ArcherMaster:joint18
+    400054: ArcherMaster:joint19
+    400056: ArcherMaster:joint2
+    400058: ArcherMaster:joint20
+    400060: ArcherMaster:joint25
+    400062: ArcherMaster:joint26
+    400064: ArcherMaster:joint27
+    400066: ArcherMaster:joint28
+    400068: ArcherMaster:joint29
+    400070: ArcherMaster:joint3
+    400072: ArcherMaster:joint30
+    400074: ArcherMaster:joint31
+    400076: ArcherMaster:joint32
+    400078: ArcherMaster:joint33
+    400080: ArcherMaster:joint34
+    400082: ArcherMaster:joint35
+    400084: ArcherMaster:joint36
+    400086: ArcherMaster:joint37
+    400088: ArcherMaster:joint38
+    400090: ArcherMaster:joint39
+    400092: ArcherMaster:joint4
+    400094: ArcherMaster:joint40
+    400096: ArcherMaster:joint41
+    400098: ArcherMaster:joint42
+    400100: ArcherMaster:joint43
+    400102: ArcherMaster:joint44
+    400104: ArcherMaster:joint45
+    400106: ArcherMaster:joint46
+    400108: ArcherMaster:joint47
+    400110: ArcherMaster:joint48
+    400112: ArcherMaster:joint49
+    400114: ArcherMaster:joint5
+    400116: ArcherMaster:joint50
+    400118: ArcherMaster:joint51
+    400120: ArcherMaster:joint52
+    400122: ArcherMaster:joint53
+    400124: ArcherMaster:joint54
+    400126: ArcherMaster:joint55
+    400128: ArcherMaster:joint56
+    400130: ArcherMaster:joint57
+    400132: ArcherMaster:joint58
+    400134: ArcherMaster:joint59
+    400136: ArcherMaster:joint6
+    400138: ArcherMaster:joint60
+    400140: ArcherMaster:joint61
+    400142: ArcherMaster:joint62
+    400144: ArcherMaster:joint63
+    400146: ArcherMaster:joint64
+    400148: ArcherMaster:joint7
+    400150: ArcherMaster:joint8
+    400152: ArcherMaster:joint9
+    400154: ArcherMaster:L_ArmPole
+    400156: ArcherMaster:L_FootControl
+    400158: ArcherMaster:L_HandControl
+    400160: ArcherMaster:L_LegPole
+    400162: ArcherMaster:nurbsSquare1
+    400164: ArcherMaster:polySurface1
+    400166: ArcherMaster:R_ArmPole
+    400168: ArcherMaster:R_FootControl
+    400170: ArcherMaster:R_HandControl
+    400172: ArcherMaster:R_LegPole
+    400174: ArcherMaster:skid1
+    400176: ArcherMaster:skid2
+    400178: ArcherMaster:transform1
+    400180: ArcherMaster:transform2
+    400182: ArcherMaster:transform3
+    400184: ArcherMaster:transform4
+    2300000: ArcherMaster:archkit:arrow
+    2300002: ArcherMaster:archkit:bow
+    2300004: ArcherMaster:arrow2
+    2300006: ArcherMaster:arrow3
+    2300008: ArcherMaster:brokenbowpart1
+    2300010: ArcherMaster:brokenbowpart2
+    2300012: ArcherMaster:polySurface1
+    2300014: ArcherMaster:skid1
+    2300016: ArcherMaster:skid2
+    3300000: ArcherMaster:archkit:arrow
+    3300002: ArcherMaster:archkit:bow
+    3300004: ArcherMaster:arrow2
+    3300006: ArcherMaster:arrow3
+    3300008: ArcherMaster:brokenbowpart1
+    3300010: ArcherMaster:brokenbowpart2
+    3300012: ArcherMaster:polySurface1
+    3300014: ArcherMaster:skid1
+    3300016: ArcherMaster:skid2
+    4300000: ArcherMaster:archkit:headdress
+    4300002: ArcherMaster:archkit:bow
+    4300004: ArcherMaster:arrow3
+    4300006: ArcherMaster:polySurface1
+    4300008: ArcherMaster:archkit:arch
+    4300010: ArcherMaster:archkit:arrow
+    4300012: ArcherMaster:arrow2
+    4300014: ArcherMaster:brokenbowpart2
+    4300016: ArcherMaster:brokenbowpart1
+    4300018: ArcherMaster:skid2
+    4300020: ArcherMaster:skid1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ArcherMaster:archkit:arch
+    13700002: ArcherMaster:archkit:headdress
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 28.1000004
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ArcherMaster:archkit:arch
+        weight: 1
+      - path: ArcherMaster:archkit:arrow
+        weight: 1
+      - path: ArcherMaster:archkit:arrowbag
+        weight: 1
+      - path: ArcherMaster:archkit:arrowbag/ArcherMaster:transform4
+        weight: 1
+      - path: ArcherMaster:archkit:Object05
+        weight: 1
+      - path: ArcherMaster:archkit:Object05/ArcherMaster:transform3
+        weight: 1
+      - path: ArcherMaster:archkit:Object06
+        weight: 1
+      - path: ArcherMaster:archkit:Object06/ArcherMaster:transform2
+        weight: 1
+      - path: ArcherMaster:archkit:Object07
+        weight: 1
+      - path: ArcherMaster:archkit:Object07/ArcherMaster:transform1
+        weight: 1
+      - path: ArcherMaster:arrow2
+        weight: 1
+      - path: ArcherMaster:brokenbowpart1
+        weight: 1
+      - path: ArcherMaster:brokenbowpart2
+        weight: 1
+      - path: ArcherMaster:ikHandle1
+        weight: 1
+      - path: ArcherMaster:ikHandle2
+        weight: 1
+      - path: ArcherMaster:ikHandle3
+        weight: 1
+      - path: ArcherMaster:ikHandle4
+        weight: 1
+      - path: ArcherMaster:joint1
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint5
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint5/ArcherMaster:archkit:headdress
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint5/ArcherMaster:joint6
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:archkit:bow
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint27
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint27/ArcherMaster:joint28
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint27/ArcherMaster:joint28/ArcherMaster:joint29
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint30
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint30/ArcherMaster:joint31
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint30/ArcherMaster:joint31/ArcherMaster:joint32
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint33
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint33/ArcherMaster:joint34
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint33/ArcherMaster:joint34/ArcherMaster:joint35
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint36
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint36/ArcherMaster:joint37
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint26/ArcherMaster:joint36/ArcherMaster:joint37/ArcherMaster:joint38
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint39
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint39/ArcherMaster:joint40
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:joint39/ArcherMaster:joint40/ArcherMaster:joint41
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint7/ArcherMaster:joint8/ArcherMaster:joint9/ArcherMaster:joint10/ArcherMaster:L_HandControl
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:arrow3
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint47
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint47/ArcherMaster:joint48
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint47/ArcherMaster:joint48/ArcherMaster:joint49
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint50
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint50/ArcherMaster:joint51
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint50/ArcherMaster:joint51/ArcherMaster:joint52
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint53
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint53/ArcherMaster:joint54
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint53/ArcherMaster:joint54/ArcherMaster:joint55
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint56
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint56/ArcherMaster:joint57
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint46/ArcherMaster:joint56/ArcherMaster:joint57/ArcherMaster:joint58
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint59
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint59/ArcherMaster:joint60
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:joint59/ArcherMaster:joint60/ArcherMaster:joint61
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:joint4/ArcherMaster:joint42/ArcherMaster:joint43/ArcherMaster:joint44/ArcherMaster:joint45/ArcherMaster:R_HandControl
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint2/ArcherMaster:joint25/ArcherMaster:joint3/ArcherMaster:polySurface1
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint11
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint11/ArcherMaster:joint12
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint11/ArcherMaster:joint12/ArcherMaster:joint13
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint11/ArcherMaster:joint12/ArcherMaster:joint13/ArcherMaster:joint14
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint11/ArcherMaster:joint12/ArcherMaster:joint13/ArcherMaster:joint14/ArcherMaster:joint15
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint11/ArcherMaster:joint12/ArcherMaster:joint13/ArcherMaster:joint14/ArcherMaster:L_FootControl
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint16
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint16/ArcherMaster:joint17
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint16/ArcherMaster:joint17/ArcherMaster:joint18
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint16/ArcherMaster:joint17/ArcherMaster:joint18/ArcherMaster:joint19
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint16/ArcherMaster:joint17/ArcherMaster:joint18/ArcherMaster:joint19/ArcherMaster:joint20
+        weight: 1
+      - path: ArcherMaster:joint1/ArcherMaster:joint16/ArcherMaster:joint17/ArcherMaster:joint18/ArcherMaster:joint19/ArcherMaster:R_FootControl
+        weight: 1
+      - path: ArcherMaster:joint62
+        weight: 1
+      - path: ArcherMaster:joint62/ArcherMaster:joint63
+        weight: 1
+      - path: ArcherMaster:joint62/ArcherMaster:joint63/ArcherMaster:joint64
+        weight: 1
+      - path: ArcherMaster:L_ArmPole
+        weight: 1
+      - path: ArcherMaster:L_LegPole
+        weight: 1
+      - path: ArcherMaster:nurbsSquare1
+        weight: 1
+      - path: ArcherMaster:R_ArmPole
+        weight: 1
+      - path: ArcherMaster:R_LegPole
+        weight: 1
+      - path: ArcherMaster:skid1
+        weight: 1
+      - path: ArcherMaster:skid2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

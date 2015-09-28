@@ -1,0 +1,11 @@
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\UnityEditor.dll
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\UnityEngine.dll
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\Mono.Cecil.dll
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\nunit.framework.dll
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\Unity.DataContract.dll
+E:\Year 2\Game Design\Game Design Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Year 2\Game Design\Game Design Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Year 2\Game Design\Game Design Project\obj\Debug\Assembly-CSharp.dll
+E:\Year 2\Game Design\Game Design Project\obj\Debug\Assembly-CSharp.pdb

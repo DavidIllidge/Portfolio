@@ -1,0 +1,43 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiu9pag.dll 8.14.1.6143]
+    Renderer: AMD M880G with ATI Mobility Radeon HD 4250          
+    Vendor:   ATI
+    VRAM:     1082 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=0 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\David\Desktop\memory stick year 2\Year 2\Game Design\Game Design Project\The Twelfth Dynasty_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.210 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.427723 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 1.567669 ms (FindLiveObjects: 0.177444 ms CreateObjectMapping: 0.032751 ms MarkObjects: 0.438966 ms  DeleteObjects: 0.015642 ms)
+
+UnloadTime: 4.763622 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1678.
+Total: 1.475280 ms (FindLiveObjects: 0.152025 ms CreateObjectMapping: 0.031284 ms MarkObjects: 0.429679 ms  DeleteObjects: 0.010754 ms)
+
+UnloadTime: 5.473888 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 3992.
+Total: 2.082404 ms (FindLiveObjects: 0.291341 ms CreateObjectMapping: 0.089455 ms MarkObjects: 0.766481 ms  DeleteObjects: 0.074301 ms)
+
+player 1's turn
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+

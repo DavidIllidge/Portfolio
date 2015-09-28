@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 25dcc19e3cbb1194d901c7feec4ed570
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: EgyptianMKSkinger_AnklBrL AnklBrA
+    100002: EgyptianMKSkinger_AnklBrL AnklBrBW1
+    100004: EgyptianMKSkinger_AnklBrR AnklBrA1
+    100006: EgyptianMKSkinger_AnklBrR AnklBrBW
+    100008: EgyptianMKSkinger_AsBeardJ
+    100010: EgyptianMKSkinger_AsHairJ
+    100012: EgyptianMKSkinger_DaggerA Blade1
+    100014: EgyptianMKSkinger_DaggerA Hilt
+    100016: EgyptianMKSkinger_DaggerA Nls
+    100018: EgyptianMKSkinger_DaggerB Blade
+    100020: EgyptianMKSkinger_DaggerB Hilt1
+    100022: EgyptianMKSkinger_KitBag KitBag1
+    100024: EgyptianMKSkinger_KitBag StoneA1
+    100026: EgyptianMKSkinger_KitBag StoneA2
+    100028: EgyptianMKSkinger_KitBag StoneB
+    100030: EgyptianMKSkinger_KitBag StoneB2
+    100032: EgyptianMKSkinger_KitBag StoneB3
+    100034: EgyptianMKSkinger_KitBag StoneB4
+    100036: EgyptianMKSkinger_MKHairJ
+    100038: EgyptianMKSkinger_MKKiltKaJ Belt
+    100040: EgyptianMKSkinger_MKKiltKaJ FrFoldB
+    100042: EgyptianMKSkinger_MKKiltKaJ KiltMKKa
+    100044: EgyptianMKSkinger_MKKiltKbJ Belt1
+    100046: EgyptianMKSkinger_MKKiltKbJ FrFold
+    100048: EgyptianMKSkinger_MKKiltKbJ MKKiltKbJ1
+    100050: EgyptianMKSkinger_Sling
+    100052: EgyptianMKSkinger_SlingReady SlingR
+    100054: EgyptianMKSkinger_SlingReady StoneA
+    100056: EgyptianMKSkinger_StoneA3
+    100058: EgyptianMKSkinger_StoneB1
+    100060: EgyptianMKSkinger_WristBrL
+    100062: EgyptianMKSkinger_WristBrR
+    100064: //RootNode
+    400000: EgyptianMKSkinger_AnklBrL AnklBrA
+    400002: EgyptianMKSkinger_AnklBrL AnklBrBW1
+    400004: EgyptianMKSkinger_AnklBrR AnklBrA1
+    400006: EgyptianMKSkinger_AnklBrR AnklBrBW
+    400008: EgyptianMKSkinger_AsBeardJ
+    400010: EgyptianMKSkinger_AsHairJ
+    400012: EgyptianMKSkinger_DaggerA Blade1
+    400014: EgyptianMKSkinger_DaggerA Hilt
+    400016: EgyptianMKSkinger_DaggerA Nls
+    400018: EgyptianMKSkinger_DaggerB Blade
+    400020: EgyptianMKSkinger_DaggerB Hilt1
+    400022: EgyptianMKSkinger_KitBag KitBag1
+    400024: EgyptianMKSkinger_KitBag StoneA1
+    400026: EgyptianMKSkinger_KitBag StoneA2
+    400028: EgyptianMKSkinger_KitBag StoneB
+    400030: EgyptianMKSkinger_KitBag StoneB2
+    400032: EgyptianMKSkinger_KitBag StoneB3
+    400034: EgyptianMKSkinger_KitBag StoneB4
+    400036: EgyptianMKSkinger_MKHairJ
+    400038: EgyptianMKSkinger_MKKiltKaJ Belt
+    400040: EgyptianMKSkinger_MKKiltKaJ FrFoldB
+    400042: EgyptianMKSkinger_MKKiltKaJ KiltMKKa
+    400044: EgyptianMKSkinger_MKKiltKbJ Belt1
+    400046: EgyptianMKSkinger_MKKiltKbJ FrFold
+    400048: EgyptianMKSkinger_MKKiltKbJ MKKiltKbJ1
+    400050: EgyptianMKSkinger_Sling
+    400052: EgyptianMKSkinger_SlingReady SlingR
+    400054: EgyptianMKSkinger_SlingReady StoneA
+    400056: EgyptianMKSkinger_StoneA3
+    400058: EgyptianMKSkinger_StoneB1
+    400060: EgyptianMKSkinger_WristBrL
+    400062: EgyptianMKSkinger_WristBrR
+    400064: //RootNode
+    2300000: EgyptianMKSkinger_AnklBrL AnklBrA
+    2300002: EgyptianMKSkinger_AnklBrL AnklBrBW1
+    2300004: EgyptianMKSkinger_AnklBrR AnklBrA1
+    2300006: EgyptianMKSkinger_AnklBrR AnklBrBW
+    2300008: EgyptianMKSkinger_AsBeardJ
+    2300010: EgyptianMKSkinger_AsHairJ
+    2300012: EgyptianMKSkinger_DaggerA Blade1
+    2300014: EgyptianMKSkinger_DaggerA Hilt
+    2300016: EgyptianMKSkinger_DaggerA Nls
+    2300018: EgyptianMKSkinger_DaggerB Blade
+    2300020: EgyptianMKSkinger_DaggerB Hilt1
+    2300022: EgyptianMKSkinger_KitBag KitBag1
+    2300024: EgyptianMKSkinger_KitBag StoneA1
+    2300026: EgyptianMKSkinger_KitBag StoneA2
+    2300028: EgyptianMKSkinger_KitBag StoneB
+    2300030: EgyptianMKSkinger_KitBag StoneB2
+    2300032: EgyptianMKSkinger_KitBag StoneB3
+    2300034: EgyptianMKSkinger_KitBag StoneB4
+    2300036: EgyptianMKSkinger_MKHairJ
+    2300038: EgyptianMKSkinger_MKKiltKaJ Belt
+    2300040: EgyptianMKSkinger_MKKiltKaJ FrFoldB
+    2300042: EgyptianMKSkinger_MKKiltKaJ KiltMKKa
+    2300044: EgyptianMKSkinger_MKKiltKbJ Belt1
+    2300046: EgyptianMKSkinger_MKKiltKbJ FrFold
+    2300048: EgyptianMKSkinger_MKKiltKbJ MKKiltKbJ1
+    2300050: EgyptianMKSkinger_Sling
+    2300052: EgyptianMKSkinger_SlingReady SlingR
+    2300054: EgyptianMKSkinger_SlingReady StoneA
+    2300056: EgyptianMKSkinger_StoneA3
+    2300058: EgyptianMKSkinger_StoneB1
+    2300060: EgyptianMKSkinger_WristBrL
+    2300062: EgyptianMKSkinger_WristBrR
+    3300000: EgyptianMKSkinger_AnklBrL AnklBrA
+    3300002: EgyptianMKSkinger_AnklBrL AnklBrBW1
+    3300004: EgyptianMKSkinger_AnklBrR AnklBrA1
+    3300006: EgyptianMKSkinger_AnklBrR AnklBrBW
+    3300008: EgyptianMKSkinger_AsBeardJ
+    3300010: EgyptianMKSkinger_AsHairJ
+    3300012: EgyptianMKSkinger_DaggerA Blade1
+    3300014: EgyptianMKSkinger_DaggerA Hilt
+    3300016: EgyptianMKSkinger_DaggerA Nls
+    3300018: EgyptianMKSkinger_DaggerB Blade
+    3300020: EgyptianMKSkinger_DaggerB Hilt1
+    3300022: EgyptianMKSkinger_KitBag KitBag1
+    3300024: EgyptianMKSkinger_KitBag StoneA1
+    3300026: EgyptianMKSkinger_KitBag StoneA2
+    3300028: EgyptianMKSkinger_KitBag StoneB
+    3300030: EgyptianMKSkinger_KitBag StoneB2
+    3300032: EgyptianMKSkinger_KitBag StoneB3
+    3300034: EgyptianMKSkinger_KitBag StoneB4
+    3300036: EgyptianMKSkinger_MKHairJ
+    3300038: EgyptianMKSkinger_MKKiltKaJ Belt
+    3300040: EgyptianMKSkinger_MKKiltKaJ FrFoldB
+    3300042: EgyptianMKSkinger_MKKiltKaJ KiltMKKa
+    3300044: EgyptianMKSkinger_MKKiltKbJ Belt1
+    3300046: EgyptianMKSkinger_MKKiltKbJ FrFold
+    3300048: EgyptianMKSkinger_MKKiltKbJ MKKiltKbJ1
+    3300050: EgyptianMKSkinger_Sling
+    3300052: EgyptianMKSkinger_SlingReady SlingR
+    3300054: EgyptianMKSkinger_SlingReady StoneA
+    3300056: EgyptianMKSkinger_StoneA3
+    3300058: EgyptianMKSkinger_StoneB1
+    3300060: EgyptianMKSkinger_WristBrL
+    3300062: EgyptianMKSkinger_WristBrR
+    4300000: EgyptianMKSkinger_AnklBrL AnklBrA
+    4300002: EgyptianMKSkinger_AnklBrL AnklBrBW1
+    4300004: EgyptianMKSkinger_AnklBrR AnklBrA1
+    4300006: EgyptianMKSkinger_AnklBrR AnklBrBW
+    4300008: EgyptianMKSkinger_AsBeardJ
+    4300010: EgyptianMKSkinger_AsHairJ
+    4300012: EgyptianMKSkinger_DaggerA Blade1
+    4300014: EgyptianMKSkinger_DaggerA Hilt
+    4300016: EgyptianMKSkinger_DaggerA Nls
+    4300018: EgyptianMKSkinger_DaggerB Blade
+    4300020: EgyptianMKSkinger_DaggerB Hilt1
+    4300022: EgyptianMKSkinger_KitBag KitBag1
+    4300024: EgyptianMKSkinger_KitBag StoneA1
+    4300026: EgyptianMKSkinger_KitBag StoneA2
+    4300028: EgyptianMKSkinger_KitBag StoneB
+    4300030: EgyptianMKSkinger_KitBag StoneB2
+    4300032: EgyptianMKSkinger_KitBag StoneB3
+    4300034: EgyptianMKSkinger_KitBag StoneB4
+    4300036: EgyptianMKSkinger_MKHairJ
+    4300038: EgyptianMKSkinger_MKKiltKaJ Belt
+    4300040: EgyptianMKSkinger_MKKiltKaJ FrFoldB
+    4300042: EgyptianMKSkinger_MKKiltKaJ KiltMKKa
+    4300044: EgyptianMKSkinger_MKKiltKbJ Belt1
+    4300046: EgyptianMKSkinger_MKKiltKbJ FrFold
+    4300048: EgyptianMKSkinger_MKKiltKbJ MKKiltKbJ1
+    4300050: EgyptianMKSkinger_Sling
+    4300052: EgyptianMKSkinger_SlingReady SlingR
+    4300054: EgyptianMKSkinger_SlingReady StoneA
+    4300056: EgyptianMKSkinger_StoneA3
+    4300058: EgyptianMKSkinger_StoneB1
+    4300060: EgyptianMKSkinger_WristBrL
+    4300062: EgyptianMKSkinger_WristBrR
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
