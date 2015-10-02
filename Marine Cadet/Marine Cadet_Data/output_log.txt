@@ -1,0 +1,42 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2723]
+    Renderer: NVIDIA GeForce GT 640 
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.496377 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 376.
+Total: 1.212566 ms (FindLiveObjects: 0.033031 ms CreateObjectMapping: 0.014714 ms MarkObjects: 0.259149 ms  DeleteObjects: 0.099395 ms)
+
+Platform assembly: C:\Users\computing\Documents\GitHub\UnityGroupProject\Marine Cadet_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 0.989452 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 22649.
+Total: 2.034457 ms (FindLiveObjects: 0.573852 ms CreateObjectMapping: 0.104500 ms MarkObjects: 0.690063 ms  DeleteObjects: 0.278067 ms)
+
+UnloadTime: 41.304745 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 0.638414 ms (FindLiveObjects: 0.011711 ms CreateObjectMapping: 0.023122 ms MarkObjects: 0.179272 ms  DeleteObjects: 0.064261 ms)
+
